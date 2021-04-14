@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Reuben 👋
 
 <!--
-**Reuben27/Reuben27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Reuben27/Reuben27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Hi, I'm Reuben Devanesan, a quantum computing enthusiast and web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!--
+- 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Qiskit and Flutter.
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Reuben27/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben27&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Reuben's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&theme=material-palenight" />
+</a>
