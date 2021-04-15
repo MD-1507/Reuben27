@@ -19,7 +19,7 @@ Hi, I'm Reuben Devanesan, a quantum computing enthusiast and web developer.
 -->
 
 <a href="https://github.com/Reuben27/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben27&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Reuben's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben27&show_icons=true&include_all_commits=true" alt="Reuben's github stats" />
 </a>
 <a href="https://github.com/Reuben27/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&include_all_commits=true&layout=compact&langs_count=6" />
