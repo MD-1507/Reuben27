@@ -3,7 +3,7 @@
 <!--
 **Reuben27/Reuben27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi, I'm Reuben Devanesan, a quantum computing enthusiast and web developer.
+Hi, I'm Reuben Devanesan, a quantum computing enthusiast, web and app developer.
 
 <!--
 - 🔭 I’m currently working on ... -->
