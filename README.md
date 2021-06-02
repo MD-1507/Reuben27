@@ -7,7 +7,7 @@ Hi, I'm Reuben Devanesan, a quantum computing enthusiast, web and app developer.
 
 <!--
 - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Qiskit and Flutter.
+- 🌱 I’m currently learning React and Flutter.
 
 <!--
 - 👯 I’m looking to collaborate on ...
