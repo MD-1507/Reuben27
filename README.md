@@ -28,4 +28,4 @@ Hi, I'm Reuben Devanesan, a quantum computing enthusiast, web and app developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&langs_count=8" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
