@@ -49,15 +49,15 @@
 ## My GitHub Stats:
 <p align="center">
   <a href="https://github.com/Reuben27/">
-    <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben27&show_icons=true&locale=en" alt="Reuben's GitHub stats" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben27&show_icons=true&locale=en" alt="Reuben's GitHub stats" />
   </a> 
   
   <a href="https://github.com/Reuben27/">
-    <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&langs_count=8&locale=en" alt="Reuben's GitHub Top Languages"/>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&langs_count=8&locale=en" alt="Reuben's GitHub Top Languages"/>
   </a>
   
   <a href="https://github.com/Reuben27/">
-    <img height="230em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben27&locale=en" alt="Reuben's GitHub Streak" />
+    <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben27&locale=en" alt="Reuben's GitHub Streak" />
   </a>
 </p>
 
