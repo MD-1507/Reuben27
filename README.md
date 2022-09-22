@@ -53,7 +53,7 @@
   </a> 
   
   <a href="https://github.com/Reuben27/">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&langs_count=8&locale=en" alt="Reuben's GitHub Top Languages"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben27&layout=compact&langs_count=8&locale=en&exclude_repo=CMTT-LID" alt="Reuben's GitHub Top Languages"/>
   </a>
   
   <a href="https://github.com/Reuben27/">
