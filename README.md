@@ -6,7 +6,8 @@
 ## I'm a software developer and quantum computing enthusiast.
 
 - 🔭 I’m currently working on Code Mixed Text Toolkit, a python NLP library for processing code-mixed text.
-- 🌱 I’m currently learning Qiskit and exploring NLP.
+- 🌱 I’m currently learning Qiskit and exploring the fields of Quantum Computing and NLP.
+- 🎯 I'm planning to start blogging about my dev projects soon!
 
 <!--
 - 👯 I’m looking to collaborate on ...
