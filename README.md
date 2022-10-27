@@ -58,7 +58,7 @@
   </a>
   
   <a href="https://github.com/Reuben27/">
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben27&locale=en" alt="Reuben's GitHub Streak" />
+    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben27&locale=en&date_format=d%20F,%20Y" alt="Reuben's GitHub Streak" />
   </a>
 </p>
 
