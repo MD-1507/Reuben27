@@ -3,7 +3,7 @@
 <!--
 **Reuben27/Reuben27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## I'm a software developer and quantum computing enthusiast.
+## I'm a software developer and NLP enthusiast.
 
 - 🔭 I’m currently working on Code Mixed Text Toolkit, a python NLP library for processing code-mixed text.
 - 🌱 I’m currently learning Qiskit and exploring the fields of Quantum Computing and NLP.
